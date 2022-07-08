@@ -1,0 +1,51 @@
+    1  ls
+    2  cd desktop 
+    3  pwd 
+    4  cd.. 
+    5  cd..
+    6  cd.. 
+    7  cd .. 
+    8  cd desktop 
+    9  cd desktop/
+   10  cd DesKtop/
+   11  mkdir comandos 
+   12  ls
+   13  cd comandos/
+   14  git delete
+   15  git config -- global user .name 'ANGELY ALLEN'
+   16  git config --global user.name 'angely allen'
+   17  git config --global user.email 'angeallen96@gmail.com'
+   18  git config user.name
+   19  git config user.email
+   20  cd DesKtop/
+   21  mkdir curso_git
+   22  cd curso_git
+   23  git config user.name
+   24  git init
+   25  git status
+   26  echo '#aprendendo usar o git' > readme.md
+   27  git status
+   28  git add readmi.md
+   29  git status
+   30  git commit -m 'commit inicial'
+   31  git status
+   32  git add readme.d
+   33  git add readme.md
+   34  git status
+   35  git commig -m 'commig inicial'
+   36  git status
+   37  git commit -m 'commit inicial'
+   38  git status
+   39  echo '##aula1'>> readme.md
+   40  git status
+   41  git add
+   42  git status
+   43  git restore --staged 
+   44  git restore --staged.
+   45  git restore --staged .
+   46  git status
+   47  git commit -am 'alteracao no readme'
+   48  git status
+   49  git add readme.md
+   50  git status
+   51  history > aula_3.txt
